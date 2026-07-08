@@ -12,7 +12,6 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
-- Book Reservation Module
 
 
 
